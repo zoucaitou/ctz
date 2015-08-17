@@ -1,0 +1,3 @@
+	return ctz;
+
+}(window, jQuery));
