@@ -1,0 +1,28 @@
+{
+  "name": "ctzjs",
+  "version": "1.0.0",
+  "description": "mvc js freamwork",
+  "main": "ctz.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoucaitou/ctz.git"
+  },
+  "keywords": [
+    "backbone",
+    "js",
+    "ctzjs",
+    "mvc"
+  ],
+  "author": "zoucaitou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoucaitou/ctz/issues"
+  },
+  "homepage": "https://github.com/zoucaitou/ctz#readme"
+}
